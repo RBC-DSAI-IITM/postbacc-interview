@@ -387,9 +387,9 @@
             "station": "Naharlagun, Naharlagun - APSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "PM2.5",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "5",
+            "pollutant_max": "15",
+            "pollutant_avg": "10",
             "pollutant_unit": "NA"
         },
         {
@@ -400,9 +400,9 @@
             "station": "Naharlagun, Naharlagun - APSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "SO2",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "7",
+            "pollutant_max": "24",
+            "pollutant_avg": "15",
             "pollutant_unit": "NA"
         },
         {
@@ -517,9 +517,9 @@
             "station": "Railway Colony, Guwahati - APCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "PM2.5",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "15",
+            "pollutant_max": "35",
+            "pollutant_avg": "20",
             "pollutant_unit": "NA"
         },
         {
@@ -530,9 +530,9 @@
             "station": "Railway Colony, Guwahati - APCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "PM10",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "15",
+            "pollutant_max": "35",
+            "pollutant_avg": "20",
             "pollutant_unit": "NA"
         },
         {
@@ -543,9 +543,9 @@
             "station": "Railway Colony, Guwahati - APCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "NO2",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "15",
+            "pollutant_max": "35",
+            "pollutant_avg": "30",
             "pollutant_unit": "NA"
         },
         {
@@ -556,9 +556,9 @@
             "station": "Railway Colony, Guwahati - APCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "NH3",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "15",
+            "pollutant_max": "35",
+            "pollutant_avg": "20",
             "pollutant_unit": "NA"
         },
         {
@@ -569,9 +569,9 @@
             "station": "Railway Colony, Guwahati - APCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "SO2",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "10",
+            "pollutant_max": "22",
+            "pollutant_avg": "14",
             "pollutant_unit": "NA"
         },
         {
@@ -608,9 +608,9 @@
             "station": "Kharahiya Basti, Araria - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "PM2.5",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "10",
+            "pollutant_max": "30",
+            "pollutant_avg": "11",
             "pollutant_unit": "NA"
         },
         {
@@ -738,9 +738,9 @@
             "station": "Gurdeo Nagar, Aurangabad - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "PM2.5",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -751,9 +751,9 @@
             "station": "Gurdeo Nagar, Aurangabad - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "PM10",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -764,9 +764,9 @@
             "station": "Gurdeo Nagar, Aurangabad - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "NO2",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -777,9 +777,9 @@
             "station": "Gurdeo Nagar, Aurangabad - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "NH3",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -790,9 +790,9 @@
             "station": "Gurdeo Nagar, Aurangabad - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "SO2",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -803,9 +803,9 @@
             "station": "Gurdeo Nagar, Aurangabad - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "OZONE",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -816,9 +816,9 @@
             "station": "DRCC Anandpur, Begusarai - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "PM2.5",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -829,9 +829,9 @@
             "station": "DRCC Anandpur, Begusarai - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "PM10",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -842,9 +842,9 @@
             "station": "DRCC Anandpur, Begusarai - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "SO2",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -855,9 +855,9 @@
             "station": "DRCC Anandpur, Begusarai - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "OZONE",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "1",
+            "pollutant_max": "6",
+            "pollutant_avg": "3",
             "pollutant_unit": "NA"
         },
         {
@@ -946,9 +946,9 @@
             "station": "Mayaganj, Bhagalpur - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "PM2.5",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "3",
+            "pollutant_max": "115",
+            "pollutant_avg": "54",
             "pollutant_unit": "NA"
         },
         {
@@ -985,9 +985,9 @@
             "station": "Mayaganj, Bhagalpur - BSPCB",
             "last_update": "11-05-2022 08:00:00",
             "pollutant_id": "NH3",
-            "pollutant_min": "NA",
-            "pollutant_max": "NA",
-            "pollutant_avg": "NA",
+            "pollutant_min": "9",
+            "pollutant_max": "35",
+            "pollutant_avg": "22",
             "pollutant_unit": "NA"
         },
         {
